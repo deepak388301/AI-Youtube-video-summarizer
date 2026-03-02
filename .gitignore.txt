@@ -1,0 +1,3 @@
+_pycache_/
+*.vtt
+*.txt

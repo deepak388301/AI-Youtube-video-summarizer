@@ -1,0 +1,6 @@
+streamlit
+yt-dlp
+requests
+webvtt-py
+sumy
+nltk
