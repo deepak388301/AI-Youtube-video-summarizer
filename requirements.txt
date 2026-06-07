@@ -1,6 +1,7 @@
-streamlit
-yt-dlp
-requests
-webvtt-py
-sumy
-nltk
+streamlit==1.35.0
+yt-dlp==2024.5.27
+requests==2.32.3
+webvtt-py==0.4.6
+sumy==0.11.0
+nltk==3.8.1
+lxml==5.2.2
